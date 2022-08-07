@@ -13,7 +13,7 @@ const Footer = () => {
       </div>
       <div className="sm:w-[90%] w-full h-[0.25px] bg-gray-400 mt-5" />
       <div className="sm:w-[90%] w-full flex justify-between items-center mt-3">
-        <p className="text-white text-sm text-center">About | Contact Us | Privacy</p>
+        <p className="text-white text-sm text-center">About | Contact | Privacy</p>
         <p className="text-white text-sm text-center">© BitsBlock 2022 | a <b>Edema Ero </b>Test Project</p>
       </div>
     </div>

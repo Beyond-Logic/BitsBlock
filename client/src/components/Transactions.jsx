@@ -56,7 +56,7 @@ const TransactionCard = ({
           )}
         </div>
         <img
-          src={gifUrl || url}
+          src={gifUrl}
           alt="gif"
           className="w-full h-64 2xl:h-96 rounded-md shadow-lg object-cover"
         />

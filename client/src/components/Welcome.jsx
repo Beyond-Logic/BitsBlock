@@ -52,7 +52,7 @@ const Welcome = () => {
           </h1>
           <p className="text-left mt-5 text-white w-10/12 text-base font-medium">
             Explore the crypto world. Send cryptocurrencies easily on
-            Erypto.
+            BitsBlock.
           </p>
           {!currentAccount ? (
             <button

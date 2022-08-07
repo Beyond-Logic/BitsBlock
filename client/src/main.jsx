@@ -3,14 +3,14 @@ import ReactDOM from "react-dom/client";
 import App from "./App";
 import "./index.css";
 import { TransactionsProvider } from "./context/TransactionContext";
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <TransactionsProvider>
     <React.StrictMode>
-      <BrowserRouter>
+      <HashRouter>
       <App />
-      </BrowserRouter>
+      </HashRouter>
      
     </React.StrictMode>
   </TransactionsProvider>

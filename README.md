@@ -13,6 +13,6 @@
 
 # URL
 
-<a hrer="https://bits-block.vercel.app/" target="_blank">
+<a href="https://bits-block.vercel.app/" target="_blank">
 <br />
 <img src="./client/src/screencapture-bitsblock-netlify-app-2022-09-24-15_42_19.png">
